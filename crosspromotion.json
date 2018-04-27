@@ -1,5 +1,5 @@
 {
-  "Version": 3,
+  "Version": 5,
 
   "AppsList-Android": [
     {
@@ -9,7 +9,7 @@
       "ScreenshotUrl": "https://raw.githubusercontent.com/GopencilsDeveloper/tic-tac-rings/master/HelixJump.png",
       "Visible": true,
       "ShouldShowPopup": true,
-      "Id": "gopencils.games.wipe.out.the.hardest.challenge"
+      "Id": "gopencils.games.hoop.jump"
     },
     {
       "AppTitle": "Troll & Tricky Test: Rush Quiz",
@@ -18,7 +18,7 @@
       "ScreenshotUrl": "https://raw.githubusercontent.com/GopencilsDeveloper/tic-tac-rings/master/TrollnTricky.png",
       "Visible": true,
       "ShouldShowPopup": false,
-      "Id": "gopencils.games.brain100"
+      "Id": "gopencils.games.troll.tricky.test"
     },
 
   "AppsList-iOS": [
