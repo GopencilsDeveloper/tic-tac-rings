@@ -1,0 +1,27 @@
+{
+  "Version": 3,
+
+  "AppsList-Android": [
+    {
+      "AppTitle": "Helix Jump 2: Flexi Hoops",
+      "AppDescription": "Tap to jump and try to go as high as you can. Beware of the Flexi Hoops...’Cause they always be elasticity. Can you get through those Flexi Hoops easily?",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/ruok.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/ruok.png",
+      "Visible": true,
+      "ShouldShowPopup": true,
+      "Id": "gopencils.games.wipe.out.the.hardest.challenge"
+    },
+    {
+      "AppTitle": "Troll & Tricky Test: Rush Quiz",
+      "AppDescription": "Troll & Tricky is an crazy addictive free IQ brainy game you sure will enjoy with your friends, even with your grandpa and ma!",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/braingame.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/Brain.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "gopencils.games.brain100"
+    },
+
+  "AppsList-iOS": [
+    
+  ]
+}
